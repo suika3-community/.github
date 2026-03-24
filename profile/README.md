@@ -5,8 +5,6 @@ The Suika3 Community
   <img src="https://raw.githubusercontent.com/suika3-community/suika3/refs/heads/main/docs/img/logo-small.png">
 </div>
 
-![platforms](https://github.com/awemorris/PlayfieldEngine/blob/main/docs/img/platforms.png)
-
 ## About the Community
 
 The **Suika3 Community** develops and maintains the Suika3 visual novel engine.
@@ -23,17 +21,18 @@ and creators from around the world.
 If you are interested in shaping the future of visual novel technology,
 we would love to have you with us.
 
-### Lead Maintainers
+### Maintainers
 
-* Awe Morris
-* Aitsuki
+* Awe Morris — Systems Engineer (Dev / PM / QA)
+* Aitsuki — Security Engineer (Security Audit / Web / Community)
+
 ---
 
 ## Core Repositories
 
 The Suika3 ecosystem is composed of several key projects.
 
-### Engine
+### Main Engine
 
 * **[Suika3](https://github.com/suika3-community/suika3)**  
   The main visual novel engine built on Playfield Engine and NoctLang.
@@ -49,10 +48,10 @@ The Suika3 ecosystem is composed of several key projects.
 ### Historical Components
 
 * **[Suika2](https://github.com/suika3-community/suika2-archive)**  
-  The Suika2 visual novel engine.
+  The Suika2 visual novel engine. (Merged into OpenNovel)
 
 * **[OpenNovel](https://github.com/suika3-community/opennovel-archive)**  
-  The OpenNovel visual novel engine.
+  The OpenNovel visual novel engine. (Merged into Suika3)
 
 ---
 
